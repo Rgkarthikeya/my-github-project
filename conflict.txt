@@ -1,1 +1,1 @@
-Same line modified by User1
+Same line modified differently by User2
